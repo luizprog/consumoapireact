@@ -6,14 +6,14 @@
       "location": "Arnor & Gondor"
     },
     {
-      "name": "Fiona",
-      "location": "Far Far Away",
-      "id": 3
+      "id": 2,
+      "name": "Luke",
+      "location": "Tatooine"
     },
     {
-      "name": "Arnold",
-      "location": "Austria",
-      "id": 4
+      "id": 3,
+      "name": "Frodo",
+      "location": "Concil"
     }
   ]
 }
