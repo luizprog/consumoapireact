@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aragorn",
+      "location": "Arnor & Gondor"
+    },
+    {
+      "id": 2,
+      "name": "Luke",
+      "location": "Tatooine"
+    },
+    {
+      "id": 3,
+      "name": "Frodo",
+      "location": "Concil"
+    }
+  ]
+}
