@@ -3,17 +3,62 @@
     {
       "id": 1,
       "name": "Aragorn",
-      "location": "Arnor & Gondor"
+      "location": "Arnor & Gondor",
+      "category": "knight",
+      "strength": "60",
+      "agilyty": "60",
+      "dexterity": "60",
+      "endurance": "60",
+      "intelligence": "60",
+      "socialstanding": "60",
+      "vitality": "60",
+      "stamina": "60",
+      "fighting": "60"
     },
     {
       "name": "Fiona",
       "location": "Far Far Away",
+      "category": "barbarian/thief",
+      "strength": "60",
+      "agilyty": "60",
+      "dexterity": "60",
+      "endurance": "60",
+      "intelligence": "60",
+      "socialstanding": "60",
+      "vitality": "60",
+      "stamina": "60",
+      "fighting": "60",
       "id": 3
     },
     {
-      "name": "Arnold",
-      "location": "Austria",
-      "id": 4
+      "name": "Jack Johnson",
+      "location": "Hawwai",
+      "category": "bardo",
+      "strength": "60",
+      "agilyty": "60",
+      "dexterity": "60",
+      "endurance": "60",
+      "intelligence": "60",
+      "socialstanding": "60",
+      "vitality": "60",
+      "stamina": "60",
+      "fighting": "60",
+      "id": 5
+    },
+    {
+      "name": "John",
+      "location": "The Wall",
+      "category": "knight",
+      "strength": "60",
+      "agilyty": "60",
+      "dexterity": "60",
+      "endurance": "60",
+      "intelligence": "60",
+      "socialstanding": "60",
+      "vitality": "60",
+      "stamina": "60",
+      "fighting": "60",
+      "id": 6
     }
   ]
 }
